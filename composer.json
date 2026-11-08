@@ -1,0 +1,12 @@
+{
+  "name": "alcindo/oxxo-demo",
+  "description": "Tienda de conveniencia de demostración",
+  "require": {
+    "php": "^8.2",
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "ext-curl": "*",
+    "ext-openssl": "*",
+    "phpmailer/phpmailer": "^7.0"
+  }
+}
