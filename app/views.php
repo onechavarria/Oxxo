@@ -12,7 +12,6 @@
 </head>
 <body>
 <a href="#principal" class="skip">Ir al contenido</a>
-<div class="demo-bar">PROYECTO DE PORTAFOLIO <span>·</span> Demostración independiente</div>
 <header class="header">
     <div class="wrap top">
         <a href="<?= url() ?>" class="brand" aria-label="Tienda demo, inicio"><img src="assets/logo.webp" width="88" height="45" alt="OXXO"><span>CHILE<br><b>TIENDA DEMO</b></span></a>
@@ -219,6 +218,6 @@
 </section>
 <?php else: ?><section class="panel page-section"><h1>Página no encontrada</h1><a href="./">Volver a la tienda</a></section><?php endif ?>
 </main>
-<footer><div class="wrap footer"><a href="./" aria-label="Inicio"><img src="assets/logo.webp" alt="OXXO" width="62" height="32"></a><p>Demo independiente de portafolio · Sin afiliación con OXXO</p><span>Santiago, Chile · CLP</span></div></footer>
+<footer><div class="wrap footer"><a href="./" aria-label="Inicio"><img src="assets/logo.webp" alt="OXXO" width="62" height="32"></a><p><strong>Tienda de conveniencia</strong> · Catálogo de muestra y compras simuladas</p><span>Santiago, Chile · CLP</span></div></footer>
 </body>
 </html>
